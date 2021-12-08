@@ -46,11 +46,6 @@ export default makeStyles((theme) => ({
   logout: {
     marginLeft: '20px',
   },
-  title: {
-    fontSize: '30px',
-    textDecoration: 'none',
-    fontWeight: 'bold',
-  },
   userName: {
     display: 'flex',
     alignItems: 'center',
